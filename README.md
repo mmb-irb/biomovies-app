@@ -50,7 +50,6 @@ This project has been developed on top of different JavaScript libraries:
 
 * [**NGL viewer: web-based molecular graphics for large complexes** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](http://dx.doi.org/10.1093/bioinformatics/bty419)
 * [**NGL Viewer: a web application for molecular visualization** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](http://dx.doi.org/10.1093/nar/gkv402)
-* [**FFMPEG WASM** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://ffmpegwasm.netlify.app/)
 * [**Animation Timeline Control** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://github.com/ievgennaida/animation-timeline-control)
 
 ## Credits
