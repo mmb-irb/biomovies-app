@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mmb-irb.github.io/biomovies/">
-    <img src="logo.png" width="200" /></a>
+    <img src="logo.png" width="200" />
   </a>
 </p>
 
@@ -16,13 +16,15 @@
 
 ## Brief description
 
-In this repository there are available the **binaries** of **Biomovies**, the **cross-platform** 3D biological structure **video editor**. This cross-platform, open-source software allows the **creation** of **movies** starting from a 3D biological structure file such as a **PDB** or a **MMCIF** file. Additionally, the application **accepts trajectories** coupled with its corresponding topology. The accepted trajectory formats are **NETCDF**, **XTC** and **DCD**.
+In this repository there are available the **binaries** of **Biomovies**, the **cross-platform** 3D biological structure **video editor**. This open-source software allows the **creation** of **movies** starting from a 3D biological structure: a **PDB** or **mmCIF** file, a **PDB code**, an **AlphaFold DB** model or a **UniProt** accession, or an **MDposit** simulation. The application also **accepts trajectories** coupled with their topology, in **XTC**, **DCD** and **NetCDF** formats.
 
-Thanks to its simplicity and the intuitive interface, users can build videos **easily and quickly**. The application allows the creation of **low resolution** and **HD** videos as well as **animated GIF** images.
+Thanks to its simplicity and its intuitive interface, users can build videos **easily and quickly**: clips with their own representations and camera, **transitions** and **fades** between them, **descriptions**, **labels** and **measurements**, and trajectories played inside the clips. Movies are exported as **MP4 videos** (from 720p up to **4K**, also in **3D**), **animated GIF** images or **PNG** frames, the whole movie or a part of it.
 
-The projects can be saved into **.biomovies** files for the sake of **sharing** or **editing** them later. Templates can be **exported** too, allowing to apply the same edition to different biological structures.
+The projects can be saved into **.biomovies** files for the sake of **sharing** or **editing** them later. **Templates** make the same movie of any structure: start from a ready-made one, previewed beforehand, or from your own.
 
-This is a **non-profit experimental** software in its **Beta** version, so be aware that some **bugs** can happen during the execution. Please **save** your projects as often as you can and [**let us know**](https://github.com/mmb-irb/biomovies-app/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=) if some bug is found.
+Biomovies can also be driven by **AI assistants**: **Claude Code**, **Claude Desktop**, **opencode** or **VS Code's Copilot** build and change movies in the open editor, from a request or from a paper (*Assistant > Connection*).
+
+This is a **non-profit experimental** software in its **Alpha** version, so be aware that some **bugs** can happen during the execution. Please **save** your projects as often as you can and [**let us know**](https://github.com/mmb-irb/biomovies-app/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=) if some bug is found.
 
 Visit the [**official website**](https://mmb-irb.github.io/biomovies/) for watching demonstration [**videos**](https://mmb-irb.github.io/biomovies/#gallery) and [**tutorials**](https://mmb-irb.github.io/biomovies/#tutorials).
 
@@ -32,24 +34,32 @@ All the documentation is accessible through [**Read the Docs**](https://biomovie
 
 ## Software / Hardware requirements
 
-* **macOS:** Mac OSX 10.12+ supported, 16GB of RAM recommended
+* **macOS:** macOS 12 (Monterey) or later, Apple silicon, 16GB of RAM recommended
 * **Linux:** Ubuntu 18.04 or greater, 16GB of RAM recommended
 * **Windows:** Windows 10, 16GB of RAM recommended
 
 ## Installation
 
-Please take a look at the [**installation section**](https://biomovies-documentation.readthedocs.io/en/latest/installation.html) in the documentation.
+Download the file for your system from the [**latest release**](https://github.com/mmb-irb/biomovies-app/releases).
+
+* **macOS:** open the `.dmg` file and drag **biomovies** to **Applications**. The app is not notarized: on first launch, right-click it and choose **Open**, or run `xattr -cr /Applications/biomovies.app` in a terminal.
+
+More details in the [**installation section**](https://biomovies-documentation.readthedocs.io/en/latest/installation.html) of the documentation.
+
+## Updates
+
+Biomovies tells when a new version is out, on its start screen and in the editor's status bar (*biomovies > Check for Updates…*); on macOS it also downloads it for you.
 
 ## Technology
 
-This project has been built using [**Vue JS** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://vuejs.org/) on top of [**Electron JS** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://www.electronjs.org/), using the [**PrimeVue** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://primevue.org/)  components library to enhance the user experience.
+This project has been built using [**Vue JS**](https://vuejs.org/) on top of [**Electron JS**](https://www.electronjs.org/), using the [**PrimeVue**](https://primevue.org/)  components library to enhance the user experience.
 
 ## Acknowledgements
 
 This project has been developed on top of different JavaScript libraries:
 
-* [**Mol\* Viewer: modern web app for 3D visualization and analysis of large biomolecular structures** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://pubmed.ncbi.nlm.nih.gov/33956157/)
-* [**Animation Timeline Control** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://github.com/ievgennaida/animation-timeline-control)
+* [**Mol\* Viewer: modern web app for 3D visualization and analysis of large biomolecular structures**](https://pubmed.ncbi.nlm.nih.gov/33956157/)
+* [**Animation Timeline Control**](https://github.com/ievgennaida/animation-timeline-control)
 
 ## Credits
 
