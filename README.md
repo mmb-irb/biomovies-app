@@ -12,7 +12,7 @@
 
 [![macos](https://img.shields.io/badge/mac%20os-alpha-yellow.svg?&logo=apple)](https://mmb-irb.github.io/biomovies/#download)
 [![ubuntu](https://img.shields.io/badge/ubuntu-alpha-yellow.svg?&logo=ubuntu)](https://mmb-irb.github.io/biomovies/#download)
-[![windows](https://img.shields.io/badge/windows-alpha-yellow.svg?&logo=windows)](https://mmb-irb.github.io/biomovies/#download)
+[![windows](https://img.shields.io/badge/windows-alpha-yellow.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS40djExLjRIMHpNMTIuNiAwSDI0djExLjRIMTIuNnpNMCAxMi42aDExLjRWMjRIMHpNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8+PC9zdmc+)](https://mmb-irb.github.io/biomovies/#download)
 
 ## Brief description
 
