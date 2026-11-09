@@ -18,7 +18,7 @@
 
 In this repository there are available the **binaries** of **Biomovies**, the **cross-platform** 3D biological structure **video editor**. This open-source software allows the **creation** of **movies** starting from a 3D biological structure: a **PDB** or **mmCIF** file, a **PDB code**, an **AlphaFold DB** model or a **UniProt** accession, or an **MDposit** simulation. The application also **accepts trajectories** coupled with their topology, in **XTC**, **DCD** and **NetCDF** formats.
 
-Thanks to its simplicity and its intuitive interface, users can build videos **easily and quickly**: clips with their own representations and camera, **transitions** and **fades** between them, **descriptions**, **labels** and **measurements**, and trajectories played inside the clips. Movies are exported as **MP4 videos** (from 720p up to **4K**, also in **3D**), **animated GIF** images or **PNG** frames, the whole movie or a part of it.
+Thanks to its simplicity and its intuitive interface, users can build videos **easily and quickly**: clips with their own representations and camera, **transitions** and **fades** between them, **descriptions**, **labels** and **measurements**, and trajectories played inside the clips. Movies are exported as **MP4 videos** (from 720p up to **4K**, also in **3D**), or **animated GIF** images, the whole movie or a part of it.
 
 The projects can be saved into **.biomovies** files for the sake of **sharing** or **editing** them later. **Templates** make the same movie of any structure: start from a ready-made one, previewed beforehand, or from your own.
 
