@@ -35,14 +35,18 @@ All the documentation is accessible through [**Read the Docs**](https://biomovie
 ## Software / Hardware requirements
 
 * **macOS:** macOS 12 (Monterey) or later, Apple silicon, 16GB of RAM recommended
-* **Linux:** Ubuntu 18.04 or greater, 16GB of RAM recommended
-* **Windows:** Windows 10, 16GB of RAM recommended
+* **Windows:** Windows 10 or 11, 64-bit (x64), 16GB of RAM recommended
+* **Linux:** Ubuntu 22.04 or later, 64-bit (x64), 16GB of RAM recommended
+
+A graphics card helps but is not required: without one (virtual machines, remote desktops) Biomovies works, drawing more slowly.
 
 ## Installation
 
 Download the file for your system from the [**latest release**](https://github.com/mmb-irb/biomovies-app/releases).
 
-* **macOS:** open the `.dmg` file and drag **biomovies** to **Applications**. The app is not notarized: on first launch, right-click it and choose **Open**, or run `xattr -cr /Applications/biomovies.app` in a terminal.
+* **macOS** (`.dmg`): open it and drag **biomovies** to **Applications**. The app is not notarized: the first time, open it, click **Done**, then **System Settings > Privacy & Security > Open Anyway** (on macOS 12 to 14: right-click the app and choose **Open**).
+* **Windows** (`.exe`): double-click it. The app is not signed: on *Windows protected your PC*, click **More info**, then **Run anyway**. It installs for your user, with shortcuts on the desktop and in the Start menu.
+* **Linux** (`.deb`): double-click it and click **Install** in App Center (Ubuntu Software on 22.04). If your browser warns about the download, choose **Keep**.
 
 More details in the [**installation section**](https://biomovies-documentation.readthedocs.io/en/latest/installation.html) of the documentation.
 
