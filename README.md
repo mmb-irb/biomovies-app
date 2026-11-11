@@ -10,9 +10,9 @@
 [![documentation](https://img.shields.io/readthedocs/biomovies-documentation/latest?label=documentation)](https://biomovies-documentation.readthedocs.io/en/latest/?badge=latest)
 [![License: GPL](https://img.shields.io/badge/License-GPL_v3.0-green.svg)](https://opensource.org/license/gpl-3-0/)
 
-[![macos](https://img.shields.io/badge/mac%20os-alpha-yellow.svg?&logo=apple)](https://mmb-irb.github.io/biomovies/#download)
-[![ubuntu](https://img.shields.io/badge/ubuntu-alpha-yellow.svg?&logo=ubuntu)](https://mmb-irb.github.io/biomovies/#download)
-[![windows](https://img.shields.io/badge/windows-alpha-yellow.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS40djExLjRIMHpNMTIuNiAwSDI0djExLjRIMTIuNnpNMCAxMi42aDExLjRWMjRIMHpNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8+PC9zdmc+)](https://mmb-irb.github.io/biomovies/#download)
+[![macos](https://img.shields.io/badge/mac%20os-beta-33bbff.svg?&logo=apple)](https://mmb-irb.github.io/biomovies/#download)
+[![ubuntu](https://img.shields.io/badge/ubuntu-beta-33bbff.svg?&logo=ubuntu)](https://mmb-irb.github.io/biomovies/#download)
+[![windows](https://img.shields.io/badge/windows-beta-33bbff.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS40djExLjRIMHpNMTIuNiAwSDI0djExLjRIMTIuNnpNMCAxMi42aDExLjRWMjRIMHpNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8+PC9zdmc+)](https://mmb-irb.github.io/biomovies/#download)
 
 ## Brief description
 
@@ -24,7 +24,7 @@ The projects can be saved into **.biomovies** files for the sake of **sharing** 
 
 Biomovies can also be driven by **AI assistants**: **Claude Code**, **Claude Desktop**, **opencode** or **VS Code's Copilot** build and change movies in the open editor, from a request or from a paper (*Assistant > Connection*).
 
-This is a **non-profit experimental** software in its **Alpha** version, so be aware that some **bugs** can happen during the execution. Please **save** your projects as often as you can and [**let us know**](https://github.com/mmb-irb/biomovies-app/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=) if some bug is found.
+This is a **non-profit experimental** software in its **Beta** version, so be aware that some **bugs** can happen during the execution. Please **save** your projects as often as you can and [**let us know**](https://github.com/mmb-irb/biomovies-app/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=) if some bug is found.
 
 Visit the [**official website**](https://mmb-irb.github.io/biomovies/) for watching demonstration [**videos**](https://mmb-irb.github.io/biomovies/#gallery) and [**tutorials**](https://mmb-irb.github.io/biomovies/#tutorials).
 
